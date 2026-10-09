@@ -1,0 +1,66 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "custom": false,
+      "defaultPalette": false,
+      "palette": [
+        { "slug": "navy", "name": "Глубокий синий", "color": "#061a38" },
+        { "slug": "blue", "name": "Голубой", "color": "#19a9e5" },
+        { "slug": "red", "name": "Красный", "color": "#f5223b" },
+        { "slug": "paper", "name": "Бумага", "color": "#f4f7fb" },
+        { "slug": "white", "name": "Белый", "color": "#ffffff" },
+        { "slug": "ink", "name": "Текст", "color": "#0b172a" }
+      ]
+    },
+    "layout": {
+      "contentSize": "760px",
+      "wideSize": "1240px"
+    },
+    "spacing": {
+      "units": ["px", "rem", "vw", "%"]
+    },
+    "typography": {
+      "fluid": true,
+      "fontFamilies": [
+        {
+          "fontFamily": "Bahnschrift, 'Arial Narrow', 'Segoe UI', sans-serif",
+          "name": "Редакционный гротеск",
+          "slug": "editorial"
+        },
+        {
+          "fontFamily": "Georgia, 'Times New Roman', serif",
+          "name": "Редакционная антиква",
+          "slug": "editorial-serif"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#f4f7fb",
+      "text": "#0b172a"
+    },
+    "spacing": {
+      "blockGap": "1.4rem"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--editorial)",
+      "lineHeight": "1.55"
+    },
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--editorial)",
+          "fontWeight": "700",
+          "lineHeight": "1.08"
+        }
+      },
+      "link": {
+        "color": { "text": "#087cae" }
+      }
+    }
+  }
+}

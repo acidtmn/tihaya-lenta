@@ -1,0 +1,33 @@
+/* Редактор повторяет ширину и ритм статьи, чтобы публикация выглядела предсказуемо до сохранения. */
+.editor-styles-wrapper {
+    background: #f4f7fb;
+    color: #0b172a;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 19px;
+    line-height: 1.7;
+}
+
+.editor-styles-wrapper .wp-block {
+    max-width: 760px;
+}
+
+.editor-styles-wrapper .wp-block[data-align="wide"] {
+    max-width: 1240px;
+}
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3 {
+    font-family: Bahnschrift, "Arial Narrow", "Segoe UI", sans-serif;
+    line-height: 1.08;
+}
+
+.editor-styles-wrapper a {
+    color: #087cae;
+}
+
+.editor-styles-wrapper blockquote {
+    padding-left: 24px;
+    border-left: 5px solid #19a9e5;
+    color: #687488;
+}

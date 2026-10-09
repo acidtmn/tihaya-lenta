@@ -1,0 +1,424 @@
+# Copyright (C) 2026 Кирилл Александров
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Тихая лента 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tihaya-lenta\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-09T09:26:54+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: tihaya-lenta\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/customizer.php:15
+msgid "Тихая лента"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+#: style.css
+msgid "https://kodalexandrova.ru"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Бесплатная адаптивная тема для новостей, городских медиа и авторских журналов. Главные материалы, рубрики, поиск и удобное чтение без обязательных плагинов."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: footer.php:27
+msgid "Кирилл Александров"
+msgstr ""
+
+#: 404.php:12
+msgid "Страница потерялась в ленте"
+msgstr ""
+
+#: 404.php:13
+msgid "Похоже, такой страницы больше нет"
+msgstr ""
+
+#: 404.php:14
+msgid "Проверьте адрес, воспользуйтесь поиском или вернитесь к свежим новостям."
+msgstr ""
+
+#: 404.php:16
+msgid "На главную"
+msgstr ""
+
+#: archive.php:10
+msgid "Архив редакции"
+msgstr ""
+
+#. translators: %s - число комментариев.
+#: comments.php:17
+#, php-format
+msgid "%s комментарий"
+msgid_plural "%s комментариев"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+msgid "Обсуждение закрыто."
+msgstr ""
+
+#: footer.php:14
+msgid "Навигация в подвале"
+msgstr ""
+
+#: footer.php:19
+#: header.php:65
+msgid "Оставайтесь в курсе"
+msgstr ""
+
+#: footer.php:27
+msgid "Тема «Тихая лента»"
+msgstr ""
+
+#: front-page.php:33
+msgid "Лента"
+msgstr ""
+
+#: front-page.php:34
+#: home.php:11
+#: template-parts/components/ticker.php:9
+msgid "Последние новости"
+msgstr ""
+
+#: front-page.php:47
+#: inc/template-tags.php:95
+msgid "Назад"
+msgstr ""
+
+#: front-page.php:48
+#: inc/template-tags.php:96
+msgid "Дальше"
+msgstr ""
+
+#: front-page.php:57
+msgid "Страницы новостей"
+msgstr ""
+
+#: front-page.php:62
+msgid "Публикаций пока нет."
+msgstr ""
+
+#: header.php:40
+msgid "Меню"
+msgstr ""
+
+#: header.php:42
+msgid "Основная навигация"
+msgstr ""
+
+#: header.php:45
+msgid "Открыть поиск"
+msgstr ""
+
+#: header.php:47
+msgid "Подписаться"
+msgstr ""
+
+#: header.php:54
+msgid "Быстрый поиск"
+msgstr ""
+
+#: header.php:54
+msgid "Что вы хотите найти?"
+msgstr ""
+
+#: header.php:55
+msgid "Закрыть поиск"
+msgstr ""
+
+#: header.php:64
+msgid "Закрыть выбор канала"
+msgstr ""
+
+#: header.php:66
+msgid "Выберите удобный канал"
+msgstr ""
+
+#: header.php:67
+msgid "Новые материалы там, где удобно читать вам."
+msgstr ""
+
+#: home.php:12
+msgid "Свежие материалы редакции в хронологическом порядке."
+msgstr ""
+
+#: home.php:27
+msgid "Публикаций пока нет"
+msgstr ""
+
+#: home.php:28
+msgid "Редакционная лента готова к первому материалу."
+msgstr ""
+
+#: inc/accessibility.php:12
+msgid "Перейти к содержимому"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Ссылка на Telegram"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Ссылка на MAX"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Показывать RSS"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Показывать блок каналов на главной"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Показывать строку «Сейчас»"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Показывать главную сетку новостей"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Новостей на странице главной"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Показывать автора темы в подвале"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Все рубрики"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Рубрика главного блока"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Цвет акцента"
+msgstr ""
+
+#: inc/enqueue.php:50
+msgid "Открыть подменю"
+msgstr ""
+
+#: inc/enqueue.php:51
+msgid "Ссылка скопирована"
+msgstr ""
+
+#: inc/enqueue.php:60
+msgid "Ищем материалы…"
+msgstr ""
+
+#: inc/enqueue.php:61
+msgid "Ничего не найдено. Попробуйте изменить запрос."
+msgstr ""
+
+#: inc/enqueue.php:62
+msgid "Поиск временно недоступен. Нажмите «Найти» для обычного поиска."
+msgstr ""
+
+#: inc/enqueue.php:63
+msgid "Новость"
+msgstr ""
+
+#: inc/enqueue.php:64
+msgid "Страница"
+msgstr ""
+
+#: inc/setup.php:38
+msgid "Основное меню"
+msgstr ""
+
+#: inc/setup.php:39
+msgid "Меню в подвале"
+msgstr ""
+
+#: inc/template-tags.php:97
+msgid "Навигация по материалам"
+msgstr ""
+
+#: inc/template-tags.php:106
+msgid "Главное"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgid "Последние"
+msgstr ""
+
+#: index.php:10
+msgid "Архив"
+msgstr ""
+
+#: index.php:25
+msgid "Материалы не найдены."
+msgstr ""
+
+#: search.php:10
+#: searchform.php:9
+msgid "Поиск по сайту"
+msgstr ""
+
+#. translators: %s - текст поискового запроса.
+#: search.php:15
+#, php-format
+msgid "Результаты для «%s»"
+msgstr ""
+
+#: searchform.php:10
+msgid "Начните вводить заголовок…"
+msgstr ""
+
+#: searchform.php:12
+msgid "Найти"
+msgstr ""
+
+#. translators: %d - примерное число минут чтения.
+#: single.php:21
+#, php-format
+msgid "%d мин. чтения"
+msgstr ""
+
+#: template-parts/components/channel-options.php:17
+msgid "Читать новости"
+msgstr ""
+
+#: template-parts/components/hero-grid.php:9
+msgid "Главные новости"
+msgstr ""
+
+#: template-parts/components/hero-grid.php:32
+msgid "Редакция на связи"
+msgstr ""
+
+#: template-parts/components/hero-grid.php:33
+msgid "Здесь появятся главные новости"
+msgstr ""
+
+#: template-parts/components/hero-grid.php:34
+msgid "Свежие материалы появятся здесь после первой публикации."
+msgstr ""
+
+#: template-parts/components/sidebar.php:16
+msgid "Дополнительные материалы"
+msgstr ""
+
+#: template-parts/components/sidebar.php:19
+msgid "В фокусе"
+msgstr ""
+
+#: template-parts/components/sidebar.php:20
+msgid "Обсуждают"
+msgstr ""
+
+#: template-parts/components/sidebar.php:32
+msgid "Список сформируется после первых публикаций."
+msgstr ""
+
+#: template-parts/components/sidebar.php:39
+msgid "Навигация"
+msgstr ""
+
+#: template-parts/components/sidebar.php:40
+msgid "Разделы"
+msgstr ""
+
+#: template-parts/components/subscribe-block.php:13
+msgid "Всегда рядом"
+msgstr ""
+
+#: template-parts/components/subscribe-block.php:14
+msgid "Читайте новости там, где удобно"
+msgstr ""
+
+#: template-parts/components/subscribe-block.php:15
+msgid "Следите за новыми публикациями в любимом канале."
+msgstr ""
+
+#: template-parts/components/ticker.php:11
+msgid "Сейчас"
+msgstr ""
+
+#: template-parts/components/ticker.php:21
+msgid "Редакционная лента готова к первым публикациям"
+msgstr ""
+
+#: template-parts/content/archive-loop.php:19
+msgid "Здесь пока нет материалов"
+msgstr ""
+
+#: template-parts/content/archive-loop.php:20
+msgid "Попробуйте выбрать другой раздел или перейти на главную."
+msgstr ""
+
+#: template-parts/content/related.php:15
+msgid "Продолжение темы"
+msgstr ""
+
+#: template-parts/content/related.php:16
+msgid "Связанные новости"
+msgstr ""
+
+#: template-parts/content/share.php:10
+msgid "Поделиться материалом"
+msgstr ""
+
+#: template-parts/content/share.php:11
+msgid "Поделиться"
+msgstr ""
+
+#: template-parts/content/share.php:14
+msgid "Копировать ссылку"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Глубокий синий"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Голубой"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Красный"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Бумага"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Белый"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Текст"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Редакционный гротеск"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Редакционная антиква"
+msgstr ""

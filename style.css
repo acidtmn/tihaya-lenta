@@ -1,0 +1,17 @@
+/*
+Theme Name: Тихая лента
+Theme URI: https://kodalexandrova.ru
+Author: Кирилл Александров
+Author URI: https://kodalexandrova.ru
+Description: Бесплатная адаптивная тема для новостей, городских медиа и авторских журналов. Главные материалы, рубрики, поиск и удобное чтение без обязательных плагинов.
+Version: 1.0.0
+Requires at least: 6.6
+Requires PHP: 8.2
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: tihaya-lenta
+Domain Path: /languages
+Tags: news, blog, two-columns, right-sidebar, custom-logo, custom-menu, custom-colors, featured-images, threaded-comments, translation-ready, wide-blocks
+*/
+
+/* Основные стили загружаются из assets/css/main.css, чтобы файл метаданных оставался компактным. */
